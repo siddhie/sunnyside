@@ -160,5 +160,24 @@ body{
     padding: 0 5rem 0 0;
     font-size: 0.9rem;
     font-weight: 100;
-    color: hsl(232, 10%, 55%) ;
+    color: hsl(232, 10%, 55%);
 }
+.lichi__image{
+   width: 50%;
+  height: 40%;
+   
+}
+
+.orange__image{
+    width: 50%;
+  
+}
+.lichi{
+    width: 100%;
+}
+.orange{
+    width: 100%;
+}
+
+
+
